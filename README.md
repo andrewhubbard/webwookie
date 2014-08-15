@@ -1,4 +1,4 @@
 webwookie
 =========
 
-My JS play ground
+My JS playground!
